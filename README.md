@@ -230,13 +230,17 @@ Akses: https://[username].github.io/[NamaRepo]/
 2. Keranjang otomatis kosong
 3. Kembali ke halaman home
 
-### 🔑 Akun Demo
-Jika tidak ingin registrasi, gunakan akun demo berikut:
-(Role : Customer Demo)  (Email :	demo@techstore.com) (Password : demo123)
-# Cara menggunakan akun demo:
-1. Klik "Login"
-2. Masukkan email dan password di atas
-3. Klik "Masuk"
+## 🔑 Akun Demo
+
+| Role | Email | Password |
+|------|-------|----------|
+| Customer Demo | demo@techstore.com | demo123 |
+| Customer 2 | user@example.com | user123 |
+
+**Cara menggunakan:**
+1. Klik tombol **"Login"** di navbar
+2. Masukkan email & password dari tabel di atas
+3. Klik **"Masuk"**
 ---
 
 
