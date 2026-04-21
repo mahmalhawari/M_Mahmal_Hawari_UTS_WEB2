@@ -239,59 +239,44 @@ Jika tidak ingin registrasi, gunakan akun demo berikut:
 3. Klik "Masuk"
 ---
 
-## ✅ Pemenuhan Ketentuan UTS
 
-### Fitur Wajib (14/14)
+### ✅ Pemenuhan Ketentuan UTS
+## Fitur Wajib
+Fitur Wajib (14/14)
+No	Fitur Wajib	Status	Lokasi/Bukti
+1	Authentication (Login & Register)	✅	Halaman Auth
+2	Validasi Email Unik	✅	Function handleRegister()
+3	Password Minimal 6 Karakter	✅	Validasi di register
+4	Menampilkan List Produk dari JSON	✅	products.json + renderProductsPage()
+5	Detail Produk	✅	Modal detail produk
+6	Search & Filter	✅	Sidebar filter + search input
+7	Cart (Tambah, Hapus, Update Jumlah)	✅	Halaman Cart
+8	Total Harga Otomatis	✅	getCartTotal()
+9	Checkout Form (Nama, Alamat, No HP)	✅	Halaman Checkout
+10	Generate ID Transaksi	✅	generateTxId()
+11	Simpan Transaksi ke LocalStorage	✅	saveOrder()
+12	Order History	✅	Halaman History
+13	Responsive (Mobile + Desktop)	✅	Tailwind breakpoints
+14	State Management LocalStorage	✅	lsGet(), lsSet()
 
-| No | Fitur Wajib | Status | Keterangan / Lokasi |
-|:--:|-------------|:------:|---------------------|
-| 1 | Authentication (Login & Register) | ✅ | Halaman Auth |
-| 2 | Validasi Email Unik | ✅ | Function `handleRegister()` |
-| 3 | Password Minimal 6 Karakter | ✅ | Validasi di form register |
-| 4 | Menampilkan List Produk dari JSON | ✅ | `products.json` + `renderProductsPage()` |
-| 5 | Detail Produk | ✅ | Modal detail produk |
-| 6 | Search Produk | ✅ | Search input real-time |
-| 7 | Filter Kategori & Harga | ✅ | Sidebar filter + slider harga |
-| 8 | Cart (Tambah, Hapus, Update Jumlah) | ✅ | Halaman Cart |
-| 9 | Total Harga Otomatis | ✅ | Function `getCartTotal()` |
-| 10 | Checkout Form (Nama, Alamat, No HP) | ✅ | Halaman Checkout |
-| 11 | Generate ID Transaksi | ✅ | Function `generateTxId()` |
-| 12 | Simpan Transaksi ke LocalStorage | ✅ | Function `saveOrder()` |
-| 13 | Order History | ✅ | Halaman History |
-| 14 | Responsive (Mobile + Desktop) | ✅ | Tailwind CSS breakpoints |
-| 15 | State Management LocalStorage | ✅ | `lsGet()` / `lsSet()` |
+## Fitur Tambahan
+No	Fitur Tambahan	Status	
+1   Rating Produk  ✅ (Bintang rating)
+2   Notifikasi Toast	✅ (Custom alert)
+3   Filter Harga (Slider)	✅
 
----
+## Teknologi Wajib (5/5)
+No	Teknologi	Status
+1	HTML5	✅
+2	JavaScript (ES6+)	✅
+3	Tailwind CSS	✅
+4	LocalStorage	✅
+5	JSON (dummy data)	✅
 
-### Fitur Tambahan
-
-| No | Fitur Bonus | Status | Keterangan |
-|:--:|-------------|:------:|-------------|
-| 1 | Rating Produk | ✅ | Bintang rating (1-5) |
-| 2 | Notifikasi Toast | ✅ | Custom alert notification |
-| 3 | Filter Harga Slider | ✅ | Range slider interaktif |
-
----
-
-### Teknologi yang Digunakan
-
-| No | Teknologi | Status | Keterangan |
-|:--:|-----------|:------:|-------------|
-| 1 | HTML5 | ✅ | Struktur halaman |
-| 2 | JavaScript (ES6+) | ✅ | Logic & interaktivitas |
-| 3 | Tailwind CSS | ✅ | Styling & responsive |
-| 4 | LocalStorage | ✅ | Penyimpanan data |
-| 5 | JSON (dummy data) | ✅ | Data produk |
-
----
-
-### Deployment
-
-| Aspek | Status | Link |
-|-------|:------:|------|
-| **GitHub Pages** | ✅ Aktif | [https://M.Mahmal_Hawari_UTS_Web2.github.io](https://M.Mahmal_Hawari_UTS_Web2.github.io) |
-| **Repository** | ✅ Public | [https://github.com/M.Mahmal_Hawari_UTS_Web2](https://github.com/M.Mahmal_Hawari_UTS_Web2) |
-| **Status** | ✅ Berhasil | Live dan dapat diakses |
+## Deployment (WAJIB)
+Aspek	Status	Link
+GitHub Pages	✅	Link Demo
+Repository Public	✅	Link Repo
 
 ### 👨‍🎓 Identitas Mahasiswa
 Nama Lengkap	Mochammad Mahmal Hawari
