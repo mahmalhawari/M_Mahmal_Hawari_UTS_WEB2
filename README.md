@@ -17,8 +17,7 @@
 - [Cara Penggunaan](#-cara-penggunaan)
 - [Akun Demo](#-akun-demo)
 - [Pemenuhan Ketentuan UTS](#-pemenuhan-ketentuan-uts)
-- [Identitas Mahasiswa](#-identitas-mahasiswa)
-
+  
 ---
 
 ## 📝 Deskripsi Project
@@ -296,20 +295,6 @@ Akses: https://[username].github.io/[NamaRepo]/
 |-------|------|
 | **GitHub Pages (Live Demo)** | [https://mahmalhawari.github.io/M_Mahmal_Hawari_UTS_WEB2/](https://mahmalhawari.github.io/M_Mahmal_Hawari_UTS_WEB2/) |
 | **Repository Publik** | [https://github.com/mahmalhawari/M_Mahmal_Hawari_UTS_WEB2](https://github.com/mahmalhawari/M_Mahmal_Hawari_UTS_WEB2) |
-
-### 👨‍🎓 Identitas Mahasiswa
-Nama Lengkap	Mochammad Mahmal Hawari
-NIM	2411070088
-Kelas	IT 7 Reguler Malam
-Program Studi	Informatika
-Mata Kuliah	Pemrograman Web 2
-Dosen Pengampu	Ibu Andita
-Semester	4
-Tahun Akademik	2025/2026
-Informasi UTS
-Tanggal Mulai	20 April 2026
-Tanggal Selesai	23 April 2026
-Status	Selesai
 
 
 ### 🎯 Penutup
