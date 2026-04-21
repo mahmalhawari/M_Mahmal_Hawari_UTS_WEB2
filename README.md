@@ -297,4 +297,22 @@ Status	Selesai
 Demikian dokumentasi lengkap project TechStore - Online Shop Electronics. Seluruh fitur yang diminta dalam ketentuan UTS telah diimplementasikan dengan baik. Project ini merupakan bukti kemampuan dalam membangun aplikasi web modern menggunakan HTML5, JavaScript ES6+, Tailwind CSS, LocalStorage, dan JSON.
 
 Terima kasih telah mengunjungi repository ini! 🙌
+
+✅ Fitur Wajib
+Fitur Wajib	Status	Keterangan
+Authentication (Login & Register)	✅	Halaman Auth
+Validasi Email Unik	✅	Function handleRegister()
+Password Minimal 6 Karakter	✅	Validasi di form register
+Menampilkan List Produk dari JSON	✅	products.json + renderProductsPage()
+Detail Produk	✅	Modal detail produk
+Search Produk	✅	Search input real-time
+Filter Kategori & Harga	✅	Sidebar filter + slider harga
+Cart (Tambah, Hapus, Update Jumlah)	✅	Halaman Cart
+Total Harga Otomatis	✅	Function getCartTotal()
+Checkout Form (Nama, Alamat, No HP)	✅	Halaman Checkout
+Generate ID Transaksi	✅	Function generateTxId()
+Simpan Transaksi ke LocalStorage	✅	Function saveOrder()
+Order History	✅	Halaman History
+Responsive (Mobile + Desktop)	✅	Tailwind CSS breakpoints
+State Management LocalStorage	✅	lsGet() / lsSet()
 ---
