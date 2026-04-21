@@ -286,13 +286,13 @@ Jika tidak ingin registrasi, gunakan akun demo berikut:
 
 ---
 
-### Deployment
+## 🚀 Deployment
 
-| Aspek | Status | Link |
-|-------|:------:|------|
-| **GitHub Pages** | ✅ Aktif | [https://M.Mahmal_Hawari_UTS_Web2.github.io](https://M.Mahmal_Hawari_UTS_Web2.github.io) |
-| **Repository** | ✅ Public | [https://github.com/M.Mahmal_Hawari_UTS_Web2](https://github.com/M.Mahmal_Hawari_UTS_Web2) |
-| **Status** | ✅ Berhasil | Live dan dapat diakses |
+| Aspek | Link |
+|-------|------|
+| **GitHub Pages (Live Demo)** | [https://mahmalhawari.github.io/M_Mahmal_Hawari_UTS_WEB2/](https://mahmalhawari.github.io/M_Mahmal_Hawari_UTS_WEB2/) |
+| **Repository Publik** | [https://github.com/mahmalhawari/M_Mahmal_Hawari_UTS_WEB2](https://github.com/mahmalhawari/M_Mahmal_Hawari_UTS_WEB2) |
+
 ### 👨‍🎓 Identitas Mahasiswa
 Nama Lengkap	Mochammad Mahmal Hawari
 NIM	2411070088
